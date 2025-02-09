@@ -13,10 +13,10 @@ As a Data Scientist at BCG, analyzing structured data and extracting insights is
 
 ---
 📈 EDA Insights
-✔ Customer Churn Analysis – Understanding factors affecting customer retention.
-✔ Pricing Trends – Exploring how energy pricing varies over time.
-✔ Consumption Patterns – Identifying high and low usage trends.
-✔ Descriptive Statistics & Data Distributions – Extracting key patterns from data.
+-✔ Customer Churn Analysis – Understanding factors affecting customer retention.
+-✔ Pricing Trends – Exploring how energy pricing varies over time.
+-✔ Consumption Patterns – Identifying high and low usage trends.
+-✔ Descriptive Statistics & Data Distributions – Extracting key patterns from data.
 ---
 📩 Contact
 📧 Email: [pavitrswain157@gmail.com]
