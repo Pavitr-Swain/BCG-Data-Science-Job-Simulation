@@ -20,6 +20,6 @@ As a Data Scientist at BCG, analyzing structured data and extracting insights is
 ---
 📩 Contact
 📧 Email: [pavitrswain157@gmail.com]
-🔗 LinkedIn: linkedin.com/in/pavitr-kumar-ab708b227
-📂 GitHub: github.com/Pavitr-Swain
+🔗 LinkedIn: https://www.linkedin.com/in/pavitr-kumar-ab708b227/
+📂 GitHub: https://www.github.com/Pavitr-Swain
 ## 📂 **Project Structure**
